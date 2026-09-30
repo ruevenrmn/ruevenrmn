@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Gustavo 👋
+# Hi, I'm Gustavo
 
 ### Building thoughtful web products, wallet tooling, and data-driven experiences
 
@@ -16,15 +16,19 @@
 
 I'm a developer focused on turning ideas into clear, useful software.
 
-- 🔭 Building practical product experiences and Web3 tooling
-- 🌱 Exploring frontend systems, data visualization, and product design
-- 🧰 Working with React, TypeScript, JavaScript, Vite, and Node.js
-- 🎯 Currently focused on shipping thoughtful, production-ready work
+- Building practical product experiences and Web3 tooling
+- Exploring frontend systems, data visualization, and product design
+- Working with React, TypeScript, JavaScript, Vite, and Node.js
+- Currently focused on shipping thoughtful, production-ready work
 
 ## Skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,vite,nodejs,html,css,git,github,vercel&perline=10" alt="Technology icons" />
+</p>
+
+<p align="center">
+  React · TypeScript · JavaScript · Vite · Node.js · HTML · CSS · Git · GitHub · Vercel
 </p>
 
 ## GitHub activity
